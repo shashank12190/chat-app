@@ -33,7 +33,7 @@ const io = new Server(expressServer, {
         : [
             "http://localhost:5500",
             "http://127.0.0.1:5500",
-            "https://chat-app-1-g77c.onrender.com",
+            "https://chat-app-2-almf.onrender.com",
           ],
   },
 });
